@@ -1,2 +1,2 @@
 ### Hi there 👋
-![Metrics](/github-metrics.svg)
+![Metrics](https://gggxbbb.github.io/gggxbbb/github-metrics.svg)
