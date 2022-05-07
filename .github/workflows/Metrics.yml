@@ -35,9 +35,6 @@ jobs:
           plugin_introduction_title: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          plugin_rss: yes
-          plugin_rss_limit: 4
-          plugin_rss_source: https://evax.top/atom.xml
           plugin_topics: yes
           plugin_topics_limit: 15
           plugin_topics_mode: icons
